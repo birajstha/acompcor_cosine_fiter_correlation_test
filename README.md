@@ -1,4 +1,4 @@
-# Project Title
+# Cosine filter test
 
 Testing out the outputs from updated cosine filter with the original implementation using correlation.
 
