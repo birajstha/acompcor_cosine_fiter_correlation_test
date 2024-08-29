@@ -1,0 +1,171 @@
+/usr/share/fsl/6.0/lib/python3.10/site-packages/scipy/stats/_stats_py.py:4781: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  warnings.warn(stats.ConstantInputWarning(msg))
+calculating 0 of 84 row of voxels
+corr: nan
+calculating 1 of 84 row of voxels
+corr: 1.0
+calculating 2 of 84 row of voxels
+corr: 1.0
+calculating 3 of 84 row of voxels
+corr: 1.0
+calculating 4 of 84 row of voxels
+corr: 0.9999999999999998
+calculating 5 of 84 row of voxels
+corr: 1.0
+calculating 6 of 84 row of voxels
+corr: 0.9999999999999999
+calculating 7 of 84 row of voxels
+corr: 1.0
+calculating 8 of 84 row of voxels
+corr: 1.0
+calculating 9 of 84 row of voxels
+corr: 0.9999999999999998
+calculating 10 of 84 row of voxels
+corr: 1.0
+calculating 11 of 84 row of voxels
+corr: 1.0
+calculating 12 of 84 row of voxels
+corr: 1.0
+calculating 13 of 84 row of voxels
+corr: 1.0
+calculating 14 of 84 row of voxels
+corr: 1.0
+calculating 15 of 84 row of voxels
+corr: 1.0
+calculating 16 of 84 row of voxels
+corr: 1.0
+calculating 17 of 84 row of voxels
+corr: 0.9999999999999999
+calculating 18 of 84 row of voxels
+corr: 1.0
+calculating 19 of 84 row of voxels
+corr: 1.0
+calculating 20 of 84 row of voxels
+corr: 0.9999999999999999
+calculating 21 of 84 row of voxels
+corr: 1.0
+calculating 22 of 84 row of voxels
+corr: 1.0
+calculating 23 of 84 row of voxels
+corr: 1.0
+calculating 24 of 84 row of voxels
+corr: 1.0
+calculating 25 of 84 row of voxels
+corr: 1.0
+calculating 26 of 84 row of voxels
+corr: 1.0
+calculating 27 of 84 row of voxels
+corr: 1.0
+calculating 28 of 84 row of voxels
+corr: 1.0
+calculating 29 of 84 row of voxels
+corr: 1.0
+calculating 30 of 84 row of voxels
+corr: 1.0
+calculating 31 of 84 row of voxels
+corr: 0.9999999999999999
+calculating 32 of 84 row of voxels
+corr: 1.0
+calculating 33 of 84 row of voxels
+corr: 0.9999999999999997
+calculating 34 of 84 row of voxels
+corr: 1.0
+calculating 35 of 84 row of voxels
+corr: 1.0
+calculating 36 of 84 row of voxels
+corr: 0.9999999999999998
+calculating 37 of 84 row of voxels
+corr: 1.0
+calculating 38 of 84 row of voxels
+corr: 0.9999999999999998
+calculating 39 of 84 row of voxels
+corr: 1.0
+calculating 40 of 84 row of voxels
+corr: 1.0
+calculating 41 of 84 row of voxels
+corr: 1.0
+calculating 42 of 84 row of voxels
+corr: 1.0
+calculating 43 of 84 row of voxels
+corr: 0.9999999999999999
+calculating 44 of 84 row of voxels
+corr: 1.0
+calculating 45 of 84 row of voxels
+corr: 1.0
+calculating 46 of 84 row of voxels
+corr: 1.0
+calculating 47 of 84 row of voxels
+corr: 0.9999999999999999
+calculating 48 of 84 row of voxels
+corr: 1.0
+calculating 49 of 84 row of voxels
+corr: 1.0
+calculating 50 of 84 row of voxels
+corr: 1.0
+calculating 51 of 84 row of voxels
+corr: 0.9999999999999999
+calculating 52 of 84 row of voxels
+corr: 1.0
+calculating 53 of 84 row of voxels
+corr: 1.0
+calculating 54 of 84 row of voxels
+corr: 0.9999999999999999
+calculating 55 of 84 row of voxels
+corr: 1.0
+calculating 56 of 84 row of voxels
+corr: 0.9999999999999998
+calculating 57 of 84 row of voxels
+corr: 1.0
+calculating 58 of 84 row of voxels
+corr: 1.0
+calculating 59 of 84 row of voxels
+corr: 1.0
+calculating 60 of 84 row of voxels
+corr: 1.0
+calculating 61 of 84 row of voxels
+corr: 1.0
+calculating 62 of 84 row of voxels
+corr: 0.9999999999999999
+calculating 63 of 84 row of voxels
+corr: 0.9999999999999996
+calculating 64 of 84 row of voxels
+corr: 1.0
+calculating 65 of 84 row of voxels
+corr: 0.9999999999999999
+calculating 66 of 84 row of voxels
+corr: 1.0
+calculating 67 of 84 row of voxels
+corr: 1.0
+calculating 68 of 84 row of voxels
+corr: 1.0
+calculating 69 of 84 row of voxels
+corr: 0.9999999999999998
+calculating 70 of 84 row of voxels
+corr: 1.0
+calculating 71 of 84 row of voxels
+corr: 1.0
+calculating 72 of 84 row of voxels
+corr: 0.9999999999999997
+calculating 73 of 84 row of voxels
+corr: 1.0
+calculating 74 of 84 row of voxels
+corr: 0.9999999999999999
+calculating 75 of 84 row of voxels
+corr: 0.9999999999999998
+calculating 76 of 84 row of voxels
+corr: 0.9999999999999998
+calculating 77 of 84 row of voxels
+corr: 0.9999999999999999
+calculating 78 of 84 row of voxels
+corr: 1.0
+calculating 79 of 84 row of voxels
+corr: 1.0
+calculating 80 of 84 row of voxels
+corr: 0.9999999999999999
+calculating 81 of 84 row of voxels
+corr: 1.0
+calculating 82 of 84 row of voxels
+corr: 1.0
+calculating 83 of 84 row of voxels
+corr: 0.9999999999999997
+The mean correlation is : 1.0
